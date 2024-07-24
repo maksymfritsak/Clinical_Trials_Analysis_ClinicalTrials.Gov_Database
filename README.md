@@ -1,13 +1,11 @@
-# Importance
+# Importance and Objective
 **Over the past two decades, the entire field of oncology has witnessed significant growth in clinical trial activity, yet a comprehensive examination of this landscape has been lacking.**
 
-# Objective
 **This study provides a meticulous analysis of radiation oncology clinical trials from 2003 to 2023 to identify key trends, patterns, and challenges in the field.**
 
-# Design
+# Design and Setting
 **A comprehensive retrospective analysis of publicly registered clinical trials was conducted, focusing on trials related to radiation therapy and cancer treatment.**
 
-# Setting
 **Publicly available data from ClinicalTrials.gov provided the basis for this study, encompassing a global scope of trial activity.**
 
 # Participants
