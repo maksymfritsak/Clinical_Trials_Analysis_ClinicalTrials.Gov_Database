@@ -19,3 +19,9 @@
 
 # Conclusions and Relevance
 **These findings highlight the dynamic nature of radiation oncology research, emphasizing the importance of global effort to address regional disparities, to test novel technology and drug-radiotherapy combinations in phase I trials as well as to conduct phase III trials to translate promising therapies into clinical practice, and to increase efforts to obtain industry funding for radiation oncology trials.**
+
+### Citation  
+If you use the approaches or findings of this work in your research, please cite the following publication:
+
+Christ SM, Fritsak M, Kobeissi G, Heesen P, Roohani S, Rahman R, Aggarwal A, Guckenberger M. *Navigating Scientific Progress in Radiation Oncology: Comprehensive Analysis of Clinical Trials From the Past Two Decades Using the ClinicalTrials.gov Database*. **JCO Global Oncology**. 2025 Apr;11:e2400615. [doi:10.1200/GO-24-00615](https://doi.org/10.1200/GO-24-00615). PMID: 40215439.
+
